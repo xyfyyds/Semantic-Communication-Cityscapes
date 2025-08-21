@@ -73,19 +73,19 @@ Each JSON file is a mapping from `track_id` to an **importance score**:
 
 ```json
 {
-    "1": 2,
-    "2": 2,
-    "3": 1,
-    "4": 1,
-    "5": 0,
-    "6": 1,
-    "7": 0
+    "1": 3,
+    "2": 3,
+    "3": 2,
+    "4": 2,
+    "5": 1,
+    "6": 2,
+    "7": 1
 }
 ```
 
-- **0** → Low importance  
-- **1** → Medium importance  
-- **2** → High importance  
+- **1** → Low importance  
+- **2** → Medium importance  
+- **3** → High importance  
 
 ---
 
